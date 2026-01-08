@@ -1,16 +1,15 @@
-## Hi there 👋
+# C
 
-<!--
-**CxCreator/CxCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building things, Breaking things, Remaking things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## PFPcards
+
+AI-powered trading card generator. Any image → stylized art → physical card.
+
+[pfpcards.com](https://pfpcards.com)
+
+---
+
+TypeScript · Next.js · React · Supabase · Cloudflare · Stripe
